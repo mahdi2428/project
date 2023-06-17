@@ -1,0 +1,146 @@
+
+#root{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ 
+}
+ul{
+    padding: 20px;
+}
+.menu1{
+    background-color: #0f1a34;
+    list-style: none;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 15px;
+    
+}
+.menu1:hover{
+    background-color: #091023;
+}
+.link1{
+    display: block;
+    padding-bottom: 10px;
+    align-content: center;
+    text-decoration: none;
+    color: white;
+    margin-left:20px;
+}
+.menu5{
+    display: flex;
+    align-content: center;
+}
+.p1{
+    margin: 0;
+}
+/* Navbar.css */
+.navbar {
+    color: #fff;
+    width: 320px;
+    background-color: #0f1a34;
+    padding-top:0;
+    margin: 0;
+    display: block!important;
+}
+  
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+.navbar div ul li{
+    padding: 10px
+} 
+  
+.dropdown-menu {
+    display: none;
+    margin-top: 10px;
+}
+  
+.dropdown-menu ul {
+    list-style-type: none;
+    padding: 0;
+} 
+.dropdown-menu li {
+    margin-bottom: 5px;
+}
+  
+.dropdown.open .dropdown-menu {
+    display: block;
+}
+.phase{
+    font-size:17px;
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: merriweather sans,sans-serif
+}
+.img1{
+    background-color: #182444;
+    padding-top: 10px;
+    margin: 0;
+}
+.i12{
+    width: 24px;
+    height: 25px;
+}
+#white1{
+    margin: 10px;
+    margin-left: 0;
+    margin-right:20px;
+}
+.icon1{
+    font-size: 13px;
+    position: absolute;
+    left:230px;
+    margin-top: 0%;
+}
+.animate-icon {
+    transition: 0.4s;
+}
+.rotate {
+    transform:rotate(90deg);
+}
+.myDropdown{
+    transition: 0.4s;
+}
+.uls{
+    display: flex;
+    flex-direction: column;
+    margin-left: 23px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: medium;
+    
+}
+.ils:hover{
+    background-color: #091023;
+}
+.il2:hover{
+    color: gray;
+}
+#flash{
+    padding-top: 9px;
+}
+.ils{
+    padding: 10px;
+    padding-left: 0;
+}
+.phase:hover{
+    color: gray;
+}
+.navbar div ul li:hover{
+    color: gray;
+}
+.all-li:hover{
+    color: gray;
+}
+.all-li{
+    padding: 5px;
+    
+}
+#logo1{
+    margin: 0;
+    padding: 0;
+}

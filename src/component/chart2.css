@@ -1,0 +1,109 @@
+.list1{
+    padding: 20px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    text-decoration: none;
+    color: #6f7a92;
+}
+.all-list{
+    padding: 30px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: white;
+    font-family: merriweather sans,sans-serif;
+    display: flex;
+    justify-content: space-between;
+
+}
+.ils1{
+    font-family: merriweather sans,sans-serif;
+    width: 100%;
+    background-color: white; 
+    padding: 15px;
+    padding-top: 15px;
+    align-content: center;
+
+}
+.ils1:hover{
+    background-color: #5886ff;
+    transition: 0.4s;
+}
+.ils1:hover a{
+    color: white;
+}
+.ils1 a{
+    text-decoration: none;
+}
+.lis1:hover{
+    background-color: blue;
+}
+.list2{
+    padding: 20px;
+    padding-right: 4px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    text-decoration: none;
+    color: #6f7a92;
+    position: relative;
+}
+.ul1{
+    padding: 0;
+    padding-right: 30px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    font-family: merriweather sans,sans-serif;
+    position: absolute;
+    font-size: 15px;
+    margin: 0;
+    margin-top: 0;
+}
+.chart2-button{
+    padding: 12px 30px;
+    background-color: white;
+    border: 1px solid #ececec;
+    margin-right: 8px;
+}
+.chart2-button:hover{
+    color: white;
+    background-color: #5886ff;
+    transition: 0.4s;
+}
+.chart2-1{
+    background-color: #5886ff;
+    display: flex;
+}
+.sqr1{
+    width: 25%;
+    color: white;
+    padding: 40px 30px;
+}
+.sqr1 span{
+    font-size: 30px;
+    font-family: merriweather sans,sans-serif
+}
+.sqr1 div{
+    display: flex;
+}
+.sqr1 div p {
+    margin: 0;
+}
+.sqr1 h3 {
+    margin-top: 0;
+}
+.sqr1 h4{
+    margin-top: 0;
+}
+.sqr1 div p{
+    margin-right: 10px;
+}
+.sqr1 div i{
+    margin-right: 10px;
+}
+.sqr1 div i::before{
+    color: white;
+}
+.link123{
+    color: #6f7a92;
+}

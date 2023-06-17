@@ -1,0 +1,38 @@
+.first{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    height: 100px;
+}
+#img1{
+    width: 23px;
+    height: 18px;
+    margin-top: 15px;
+}
+.second{
+    margin: 0px;
+    width: 30px;
+    height: 30px;
+}
+.icon0{
+    display: flex;
+}
+.icon0 i{
+    margin: 4px;
+    font-size: 30px;
+}
+.btn1{
+    margin-left: 15px;
+    border-radius: 50%;
+    border: none;
+    width: 58px;
+    height: 58px;
+}
+.ps{
+    margin-top: 9px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-family: merriweather sans,sans-serif;
+}
